@@ -1,0 +1,695 @@
+/* 
+Asad Hossain
+
+Fb- asadjaman0171@gmail.com
+
+
+*/
+
+/*
+         
+=========index=========
+1. header
+2. Fusce at
+3. Facilisis
+4. Ante donec
+5. Blandit
+6. rhoncus
+7. Placerat
+
+*/
+
+
+
+
+
+ /*============= global css ============ */
+
+ h1 {
+ 	
+ }
+
+  h2 { 
+  	
+
+ }
+
+  h3 {
+
+ }
+
+  h4 {
+  	
+
+ }
+
+  h5 { 
+
+ }
+
+  h6 {
+  		
+ 	}
+
+ p {
+
+
+
+}
+ .cstm-btn-one {
+
+				}
+ .cstm-btn-two {
+
+ }
+
+.cstm-btn-on {
+				
+}
+
+
+
+
+
+ /*============= Theme css ============ */
+
+/*header css start*/
+header {
+		background: #f0f2f4;
+		padding: 14px 0px;
+}
+
+
+.header-containt {
+
+		font-size: 0px;
+}
+.icon-head {
+
+		margin: 0px 11px;
+    font-size: 15px;
+}
+header span {
+
+		display: inline;
+
+		border: 1px solid #e2e2e2;
+
+		padding: 13px 0px;
+}
+a.btn.btn-primary {
+    border: none;
+ 
+    background: none;
+}
+header .fa.fa-facebook-official {
+
+		color: #1287bf;
+
+		background: #FFF;
+
+		font-size: 26px;
+
+		margin: 0px 7px;
+		transition: 0.4s ease-in-out; 
+}
+header .fa.fa-facebook-official:hover {
+
+		background : #1287bf;
+
+		color:  #FFF;
+
+		font-size: 26px;
+
+		margin: 0px 7px;
+		cursor: pointer;
+}
+header b {
+
+		margin: 0px 6px;
+
+		font-size: 15px;
+
+		text-align: center;
+}
+
+
+/*Section two css*/
+
+.menu-logo-section {
+
+padding: 40px 0px;
+
+color: #fff;
+}
+.logo-img {
+
+}
+
+.navbar-nav {
+
+}
+
+.navbar-nav a {
+
+color: black;
+}
+
+
+.navbar-nav a:hover{
+ 
+	color: #de2b24;
+	background-color: #fff;
+	border: 1px solid #de2b24;
+    border-radius: 17px;
+    transition: 0.4s ease-in-out; 
+}
+
+.navbar-nav span {
+
+display: inline;
+
+border: 2px solid black;
+
+border-radius: 15px;
+
+margin: 18px 6px;
+
+padding: 1px;
+}
+
+.navbar-nav button {
+background: #de2b24;
+    border: none;
+    margin-left: 12px;
+}
+
+.navbar-nav button:hover {
+background: #fff;
+    border: none;
+    margin-left: 12px;
+    color: #de2b24;
+    transition: 0.8s ease-in-out; 
+}
+
+
+/*Hero section css*/
+.hero-section {
+	background: url(../img/hero-baner.PNG)
+	no-repeat center top ;
+	background-size: cover;
+
+}
+.section-hero {
+
+padding-bottom: 230px;
+
+padding-top: 170px;
+
+text-align: center;
+}
+
+.hero-section h2 {font-size: 46px;color: #fff;}
+
+.hero-section p {
+					
+			color: #fff;
+					
+			font-size: 20px;
+}
+.hero-section button {
+	
+			background: #f8cd53;
+				
+			border: none;
+				
+			padding: 11px 27px;
+				
+			font-size: 25px;
+				
+			font-weight: bold;
+				
+			text-transform: uppercase;
+}
+.hero-section button:hover {
+			background: transparent;
+			border: none;padding: 11px 27px;
+			font-size: 25px;color: #f8cd53;
+			font-weight: bold;
+			transition: .5s ease-in-out;
+}
+
+
+
+/*About Us section css*/
+.about-us-section {
+
+}
+.row-one-about {
+
+padding-top: 100px;
+
+text-align: center;
+
+padding-bottom: 40px;
+}
+
+.row-one-about h2 {
+	
+}
+.row-one-about p {
+	
+padding-top: 5px;
+}
+
+.row-one-about span {
+	
+border: 2px solid #424242;
+	
+display: block;
+	
+margin: 0px 155px;
+}
+
+.abut-se-content {
+
+text-align: center;
+
+padding-bottom: 100px;
+}
+
+.abut-se-content img {
+
+padding-bottom: 15px;
+}
+
+.abut-se-content h4 {
+
+padding-bottom: 11px;
+}
+.abut-se-content p {
+
+	
+}
+/*about us section css end*/
+
+
+/*Our pporoch section css*/
+
+
+
+.our-apporoch-section {
+				background: #f3f3f3;
+
+			    margin-bottom: 130px;
+			    margin-top: 74px;
+}
+.our-apporoch-content {
+
+				padding-top: 80px;
+
+				text-align: center;
+
+				padding-bottom: 40px;
+				}
+
+.our-apporoch-content h2 {
+	
+}
+.our-apporoch-content p {
+						
+				padding-top: 5px;
+}
+
+.our-apporoch-content span {
+						
+					border: 2px solid #424242;
+						
+					display: block;
+						
+					margin: 0px 155px;
+
+}
+
+
+
+
+
+.image-cont {
+		    padding: 0;
+		    padding-bottom: 25px;
+		}
+.Main-step {
+			position: relative;
+			width: 100%;
+			height: 240px;
+			padding: 0;
+		}
+
+.Step-one {
+		    position: absolute;
+		    top: 31%;
+		    left: -7%;
+
+}
+
+.our-ap-cont-two {
+				background: #fff;
+				padding: 63px 114px;
+				height: 240px;
+			}
+
+
+
+.image-cont-two {
+		    padding: 0;
+		    padding-bottom: 25px;
+}
+.Main-step-two {
+			position: relative;
+			width: 100%;
+			height: 240px;
+			padding: 0;
+}
+
+.Step-two {
+		    position: absolute;
+		    top: 25%;
+		    right: 88%;
+}
+.our-ap-cont {
+			background: #fff;
+			padding: 63px 114px;
+			height: 240px;
+		}
+
+
+/*Our pporoch section css end*/
+
+
+/*our work section*/
+
+.our-work-section {
+				background: #de2b24;
+				color: #fff;
+			    margin-bottom: 130px;
+			    margin-top: 74px;
+}
+.our-work-content {
+
+				padding-top: 80px;
+
+				text-align: center;
+
+				padding-bottom: 40px;
+				}
+
+.our-work-content h2 {
+	
+}
+.our-work-content p {
+						
+				padding-top: 5px;
+}
+
+.our-work-content span {
+						
+					border: 2px solid #fff;
+						
+					display: block ;
+						
+					margin: 0px 155px;
+
+}
+
+.fast-row {
+
+
+}
+.pading-one {
+    padding: 0;
+}
+.pading-two {
+    padding: 0;
+}
+.img-control {
+	width: 100%;
+    height: 100%;
+
+
+}
+
+.fast-secund {
+	    padding-bottom: 120px;
+
+}
+
+/*our work section*/
+
+/*from tag css */
+.frm-sec-main {
+
+background: #1287bf;
+}
+
+.frm-sec-cont {text-align: center;}
+
+.frm-sec-cont h2 {
+
+font-size: 31px;
+
+padding-top: 100px;
+}
+
+
+.frm-sec-cont p {
+
+}
+
+
+.frm-sec-cont i {
+
+color: #fff;
+
+font-size: 50px;
+
+padding-bottom: 7px;
+}
+
+
+.form-main {
+
+
+
+}
+.roll-sec-color {
+
+background: #fff;
+
+text-align: center;
+
+padding: 45px 5px;
+
+margin-bottom: 110px;
+
+border-radius: 32px;
+}
+
+.roll-sec-color p {
+	color: #1287bf;
+	padding: 0px 24px;
+}
+.form-head{
+
+padding: 0px 31px;
+}
+.form-control {
+	    border-radius: 19px;
+    padding: 18px;
+}
+.last-btn {
+
+margin: 12px 0px;
+
+margin-bottom: 60px;
+
+background: #de2b24;
+
+border: none;
+
+border-radius: 7px;
+}
+
+.last-btn:hover {
+	
+color: #de2b24;
+	
+background: #de2b2430;
+}
+
+
+/*from tag css */
+
+
+
+/*get in tuch sec*/
+
+.socal-icon {
+
+background: #2a2a2a;
+
+color: #fff;
+
+text-align: center;
+
+padding-top: 90px;
+
+padding-bottom: 35px;
+
+line-height: 40px;
+}
+
+
+.full-md-6-sec {
+
+
+}
+.full-md-6-sec label {
+
+
+}
+.icon-cont  {
+
+padding: 9px;
+
+margin: 3px;
+
+font-size: 19px;
+
+border: 1px solid;
+
+background: #2a2a2a;
+
+border-radius: 5px;
+
+transition: 0.4s inherit;
+}
+
+.icon-cont:hover  {
+
+padding: 9px;
+
+margin: 3px;
+
+font-size: 19px;
+
+border: 2px solid #de2b24;
+
+background: #515151;
+
+border-radius: 5px;
+
+cursor: pointer;
+
+transition: 0.4s ease-in-out;
+}
+
+.full-md-6-sec p {
+
+}
+input.email-sec {
+    width: 80%;
+    background: #515151;
+    border: 2px solid #de2b24;
+    border-radius: 7px;
+    padding: 3px 11px;
+}
+
+
+.full-md-6-sec email-sec {
+
+}
+
+.submit-btn {
+
+background: #515151;
+
+border: 1px solid #de2b24;
+
+padding: 4px 15px;
+
+margin: 11px 0px;
+}
+
+.submit-btn:hover {
+
+color: #161616;
+background: #fff;
+
+border: 1px solid;
+
+padding: 4px 15px;
+
+margin: 11px 0px;
+}
+/*get in tuch sec*/ 
+
+
+
+
+
+/*Footer css*/
+footer {
+	background: #515151;
+    color: #fff;
+    padding: 30px 0px;
+    text-align: center;
+}
+
+
+
+/*footer css*/
+
+
+
+
+
+
+
+
+
+
+
+
+/*header section css end*/
+
+
+/* media quiry */
+
+/* mobile device */
+@media (min-width: 320px) and (max-width: 500px) {
+
+
+}
+
+
+/* small device */
+@media (min-width: 501px) and (max-width: 768px) {
+
+
+}
+
+
+/* medium device */
+
+@media (min-width: 769px) and (max-width: 1200px) {
+
+
+}
+
+/* larg device */
+@media (min-width: 1201px) {
+
+
+}
+
